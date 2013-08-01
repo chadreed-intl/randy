@@ -2,10 +2,19 @@ li:hover {
 	background-color: #d5d5d5;
 }
 
-.navLinks {
-	font-size: 1.2em;
+body {
+	height: 100%;
+	overflow: hidden;
 }
 
-.caret {
-	padding-left: .1em;
+#billboard {
+	margin-top: -15%;
+}
+
+#koi {
+	margin-top: -5%;
+}
+
+.navLinks {
+	font-size: 1.2em;
 }
