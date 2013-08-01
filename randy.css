@@ -1,0 +1,11 @@
+li:hover {
+	background-color: #d5d5d5;
+}
+
+.navLinks {
+	font-size: 1.2em;
+}
+
+.caret {
+	padding-left: .1em;
+}
